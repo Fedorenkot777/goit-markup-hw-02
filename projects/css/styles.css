@@ -1,0 +1,16 @@
+body {
+    font-family: Roboto;
+    color: #434455;
+ }
+
+ .list {
+    font-size: 16px;
+    line-height: 150%;
+    color: #2e2f42;
+    font-weight: 500;
+ }
+ .contacts {
+    font-size: 16px;
+    line-height: 150%;
+    color: #434455;
+ }
