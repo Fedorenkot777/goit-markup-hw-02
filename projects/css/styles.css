@@ -2,7 +2,7 @@ body {
     font-family: Roboto; sans-serif;
     color: #434455;
  }
-
+ 
   /* logo */
   .logo {
    color: var(--IRIS, #4D5AE5);
@@ -72,7 +72,7 @@ body {
    clip: rect(0 0 0 0);
    overflow: hidden;
  }
- 
+
 /* Features */
 .features {
    background-color: #FFF;
