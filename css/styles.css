@@ -1,7 +1,8 @@
 body body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
    color: #434455;
    background-color: #FFFFFF;
+}
 
   /* logo */
   .logo {
@@ -9,7 +10,7 @@ body body {
    font-size: 18px;
    font-weight: 700;
    line-height: 1.17; 
-   letter-spacing: -0,03em;
+   letter-spacing: 0,03em;
    text-transform: uppercase;
    text-decoration: none;
    font-family: "Raleway", sans-serif;
@@ -25,7 +26,7 @@ body body {
     line-height: 1.5;
     color: #2e2f42;
     font-weight: 500;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
     text-decoration: none;
 }
 
@@ -52,7 +53,7 @@ body body {
    font-size: 56px;
    font-weight: 700;
    line-height: 1.07; 
-   letter-spacing: -0.02em;
+   letter-spacing: 0.02em;
    text-transform: capitalize;
 }
 
@@ -103,7 +104,7 @@ body body {
    color: #434455;
    font-size: 16px;
    line-height: 1.5; 
-   letter-spacing: -0.02em;
+   letter-spacing: 0.02em;
    text-transform: capitalize;
 }
 
@@ -114,7 +115,7 @@ body body {
    font-size: 36px;
    font-weight: 700;
    line-height: 1.11; 
-   letter-spacing: -0.02em;
+   letter-spacing: 0.02em;
    text-transform: capitalize;
 }
 
@@ -124,7 +125,7 @@ body body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
  }
  
  .name-text {
@@ -133,7 +134,7 @@ body body {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; 
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
  }
 
 /* Portfolio */
@@ -150,7 +151,7 @@ body body {
    font-size: 36px;
    font-weight: 700;
    line-height: 1.11; 
-   letter-spacing: -0.02em;
+   letter-spacing: 0.02em;
    text-transform: capitalize;
 }
 
@@ -167,7 +168,7 @@ body body {
    font-size: 16px;
    font-weight: 400;
    line-height: 1.5; 
-   letter-spacing: -0.02em;
+   letter-spacing: 0.02em;
 }
 
 /*  Footer */
@@ -180,7 +181,7 @@ body body {
    font-size: 18px;
    font-weight: 700;
    line-height: 1.16; 
-   letter-spacing: -0.03em;
+   letter-spacing: 0.03em;
    text-transform: uppercase;
 }
 
@@ -189,5 +190,5 @@ body body {
    font-size: 16px;
    font-weight: 400;
    line-height: 1.15; 
-   letter-spacing: -0.02em;
+   letter-spacing: 0.02em;
 }
