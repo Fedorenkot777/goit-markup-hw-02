@@ -1,8 +1,7 @@
 body {
-    font-family: Roboto;
-    sans-serif;
-    color: #434455;
-    background-color: #FFF;
+    font-family: "Roboto"; sans-serif;
+    color:#434455;
+    background-color:#FFF;
  }
 
   /* logo */
@@ -14,7 +13,7 @@ body {
    letter-spacing: -0,03em;
    text-transform: uppercase;
    text-decoration: none;
-   font-family: Raleway; sans-serif;
+   font-family: "Raleway"; sans-serif;
 }
 
  .logo-accent {
