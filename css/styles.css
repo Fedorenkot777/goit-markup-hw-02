@@ -1,5 +1,5 @@
 body body {
-    font-family: "Roboto", sans-serif;
+   font-family: "Roboto", sans-serif;
    color: #434455;
    background-color: #FFFFFF;
 }
@@ -12,7 +12,6 @@ body body {
    line-height: 1.17; 
    letter-spacing: 0,03em;
    text-transform: uppercase;
-   text-decoration: none;
    font-family: "Raleway", sans-serif;
 }
 
@@ -36,12 +35,14 @@ body body {
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
+
  }
 
- .contacts-list:hover {
+ .contacts-list:hover,
+ .contacts-list:vocus {
     color: #404BBF;
   }
-
+  
  /* Hero img */
  .hero {
   background-color: #2E2F42;
@@ -55,6 +56,7 @@ body body {
    line-height: 1.07; 
    letter-spacing: 0.02em;
    text-transform: capitalize;
+   font-style: normal;
 }
 
  .hero-button {
@@ -68,19 +70,12 @@ body body {
     background-color: #4D5AE5;
 }
 
-.hero-button:hover {
-    background-color: #404BBF;
-}
-
-.hero-button:active {
-    background-color: #404BBF;
-}
-
+.hero-button:hover,
+.hero-button:active,
 .hero-button:focus {
     background-color: #404BBF;
 }
 
- 
 /* Features */
 .features {
    background-color: #FFF;
