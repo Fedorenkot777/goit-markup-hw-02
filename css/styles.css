@@ -179,11 +179,11 @@ body {
 }
 
 /*  Footer */
-.footer {
+ .footer {
    background-color: #2E2F42;
 }
 
-.footer-accent {
+ .footer-accent {
    color: #4d5ae5;
    font-size: 18px;
    font-weight: 700;
@@ -193,11 +193,7 @@ body {
    font-family: "Raleway", sans-serif;
 }
 
-.span {
-    background-color: #F4F4FD;
-
-}
-.footer-text {
+ .footer-text {
    color: #F4F4FD;
    font-size: 16px;
    font-weight: 400;
