@@ -39,6 +39,7 @@ body body {
  }
 
  .contacts-list:hover,
+ .contacts-list:active,
  .contacts-list:vocus {
     color: #404BBF;
   }
