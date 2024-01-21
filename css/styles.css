@@ -6,17 +6,17 @@ body {
 
   /* logo */
   .logo {
-   color: #4D5AE5;
-   font-size: 18px;
-   font-weight: 700;
-   line-height: 1.17; 
-   letter-spacing: 0,03em;
-   text-transform: uppercase;
-   font-family: "Raleway", sans-serif;
+     color: #4D5AE5;
+     font-size: 18px;
+     font-weight: 700;
+     line-height: 1.17; 
+     letter-spacing: 0.03em;
+     text-transform: uppercase;
+     font-family: "Raleway", sans-serif;
 }
 
  .logo-accent {
-   color: #2e2f42;
+    color: #2e2f42;
 
 }
 
@@ -37,28 +37,28 @@ body {
     line-height: 1.5;
     color: #434455;
     letter-spacing: 0.02em;
-
+    font-style: normal;
  }
 
  .contacts-list:hover,
  .contacts-list:vocus {
-    color: #404BBF;
+   background-color:#404BBF;
   }
   
  /* Hero img */
  .hero {
-  background-color: #2E2F42;
+    background-color: #2E2F42;
 }
 
  .hero-title {
-   color:#FFF;
-   text-align: center;
-   font-size: 56px;
-   font-weight: 700;
-   line-height: 1.07; 
-   letter-spacing: 0.02em;
-   text-transform: capitalize;
-   font-style: normal;
+     color:#FFF;
+     text-align: center;
+     font-size: 56px;
+     font-weight: 700;
+     line-height: 1.07; 
+     letter-spacing: 0.02em;
+     text-transform: capitalize;
+     font-style: normal;
 }
 
  .hero-button {
@@ -70,7 +70,7 @@ body {
     cursor: pointer;
     text-align: center;
     background-color: #4D5AE5;
-}
+   }
 
 .hero-button:hover,
 .hero-button:focus {
